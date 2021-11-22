@@ -6,4 +6,4 @@ date: 2021-11-22T10:28:55.163Z
 tags:
   - created
 ---
-![my img](/static/img/predictions-2019_twitter_02.width-1200.png "img title")
+![my img](/static/img/1_t_g1kzwkv0p2arqcgyg7iq.gif "img title")
