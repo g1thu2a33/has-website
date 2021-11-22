@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.1.0",
+    "netlify-cms-app": "^2.15.59",
     "postcss": "^8.2.1"
   }
 }
