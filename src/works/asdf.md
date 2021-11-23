@@ -7,6 +7,12 @@ testimonials:
   - media:
       url: /static/img/download.png
       type: image
+media:
+  - type: item
+    images:
+      - /static/img/download.png
+  - type: video
+    url: https://www.youtube.com/watch?v=b980bV9eujU
 tags:
   - docker
 ---
