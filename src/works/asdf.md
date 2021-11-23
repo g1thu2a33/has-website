@@ -1,8 +1,10 @@
 ---
 title: asdf
 galleryImages:
-  - asdf 
-  - 123
+  - address
+    - street
+    - city
+    - state
 tags:
   - reactjs
 ---
